@@ -42,5 +42,5 @@
 ### Java
 | LIVRO | NOME | AUTOR |
 | - | - | - |
-| - | [Enterprise JavaBeans 3.1](https://github.com/samuelGrontoski/BibliotecaDev/blob/main/LivrosDev/Enterprise%20JavaBeans%203.1%20-%20Autor%20(Andrew%20Lee%20Rubinger%2C%20Bill%20Burke).pdf) | Andrew Lee Rubinger e Bill Burke |
+| <img height="100" width="66" src="https://github.com/samuelGrontoski/BibliotecaDev/blob/main/CapasImg/Enterprise%20JavaBeans%203.1.jpg" alt="capa do livro"> | [Enterprise JavaBeans 3.1](https://github.com/samuelGrontoski/BibliotecaDev/blob/main/LivrosDev/Enterprise%20JavaBeans%203.1%20-%20Autor%20(Andrew%20Lee%20Rubinger%2C%20Bill%20Burke).pdf) | Andrew Lee Rubinger e Bill Burke |
 #
